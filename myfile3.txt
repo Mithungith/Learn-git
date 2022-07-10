@@ -1,1 +1,2 @@
-Its my third file
+Its my third file 
+now checking the commit
